@@ -1,3 +1,5 @@
+<a href="https://github.com/oakoudad/badge42"><img align="right" src="https://badge.mediaplus.ma/greenbinary/jcavadas?1337Badge=off&UM6P=off" alt="jcavadas's 42 stats" /></a>
+
 - 👋 Hi, I’m João Cavadas! 
 - 👀 I’m interested in history, politics and Software Development.
 - 🌱 I’m currently doing the Piscine in C @42Porto!
