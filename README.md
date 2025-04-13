@@ -3,7 +3,7 @@
 </div>
 
   <h2 style="center: center; font-family: 'Georgia', serif; font-size: 2em; font-weight: bold; color: #222; margin-bottom: 16px;">
-     Welcome to my journey! <img src="https://usagif.com/wp-content/uploads/2020/b72nv6/partyparrt-52.gif" />
+     Welcome to my coding journey! <img src="https://usagif.com/wp-content/uploads/2020/b72nv6/partyparrt-52.gif" />
   </h2>
 
 
