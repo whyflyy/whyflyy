@@ -21,7 +21,9 @@
   <h2 style="center: center; font-family: 'Georgia', serif; font-size: 2em; font-weight: bold; color: #222; margin-bottom: 16px;">
   </h2>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6d96d957-4b36-4b33-a70e-6a504536c2f0" href="https://github.com/whyflyy/Libft"/>
+  <a href="https://github.com/whyflyy/Libft">
+    <img src="https://github.com/user-attachments/assets/6d96d957-4b36-4b33-a70e-6a504536c2f0" />
+  </a>
   <img src="https://github.com/user-attachments/assets/c4d83c20-0827-478b-8d7b-d723d5931711" />
   <img src="https://github.com/user-attachments/assets/6bf76172-5c95-4916-b601-c2e230b1fccf" />
   <img src="https://github.com/user-attachments/assets/83bc681b-f7f0-4223-b29b-8a5e620963a5" />
